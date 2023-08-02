@@ -1,0 +1,7 @@
+#lista de archivos y carpetas para ser ignorados en git#
+#ignorando archivos que no queremos que se suban al servidor
+#como videos o imagenes pesadas
+.mov
+.avi
+#Directorio de dependencias
+node_modules
