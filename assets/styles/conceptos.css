@@ -1,13 +1,12 @@
 .box{
-    border: 2px red;
+    border: 2px solid red;
 }
 
 .box-col {
     border: 2px solid green;
 }
 
-.box-row{
-    border: 2px solid turquoise;
-    min-height: 80px;
-
+.box-section {
+    border: 2px solid purple;
+    min-height: 300px;
 }
